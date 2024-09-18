@@ -1,0 +1,21 @@
+1. What are 3-5 (or more) commands that you can use on terminal and what do they do? What language is your computer terminal in?
+
+The command "cd" changes the current directory, "pwd" prints the working directory, and "mkdir" creates a new directory. The terminal itself is probably written in C/C++. The language the aforementioned commands belond to is shell script.
+
+2. Do you have pets? What kind?
+
+No I do not. I do want a cat, though! I'll probably get one when I have the time to take care of it.
+
+3. If you run across an error, what would your first course of action be?
+
+Googling the error and reading the stack overflow result on it.
+
+4. Funniest thing that happened to you in high school.
+
+It didn't exactly "happen to me," but my friends and I blew up a pipe by stuffing food into it on a rainy day during lunch.
+
+5. What is a python script? (Keep it simple)
+
+It is a bunch of python commands that can be run on your computer.
+
+
